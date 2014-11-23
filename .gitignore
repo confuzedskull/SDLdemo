@@ -228,3 +228,8 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+
+# Codeblocks files
+*.cbp
+*.depend
+*.layout
